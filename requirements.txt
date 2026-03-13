@@ -1,0 +1,8 @@
+# AWS SDK for Python - interact with S3 and Rekognition
+boto3==1.34.0
+ 
+# Image processing - handle image data from S3
+Pillow==10.2.0
+ 
+# Visualisation - display image with bounding boxes
+matplotlib==3.8.0

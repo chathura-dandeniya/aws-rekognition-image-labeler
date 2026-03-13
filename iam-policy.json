@@ -1,0 +1,25 @@
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Sid": "AllowS3ImageAccess",
+      "Effect": "Allow",
+      "Action": [
+        "s3:GetObject",
+        "s3:ListBucket"
+      ],
+      "Resource": [
+        "arn:aws:s3:::YOUR_BUCKET_NAME",
+        "arn:aws:s3:::YOUR_BUCKET_NAME/*"
+      ]
+    },
+    {
+      "Sid": "AllowRekognitionDetectLabels",
+      "Effect": "Allow",
+      "Action": [
+        "rekognition:DetectLabels"
+      ],
+      "Resource": "*"
+    }
+  ]
+}
