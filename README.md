@@ -243,7 +243,7 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 **Chathura Dandeniya**  
 AWS Solutions Architect Associate | CKA | Terraform Associate | AZ-104  
 📍 Melbourne, VIC, Australia  
-🔗 [LinkedIn](https://linkedin.com/in/YOUR_PROFILE) | [GitHub](https://github.com/YOUR_USERNAME)
+🔗 [LinkedIn](https://www.linkedin.com/in/chathura-dandeniya-7913b022b/) | [GitHub](https://github.com/chathura-dandeniya)
 
 ---
 
